@@ -1,0 +1,95 @@
+body {
+  width: 100%;
+  font-family: "Metal Mania", sans-serif;
+  font-size: 28px;
+  color: white;
+  background-color: black;
+  line-height: 40px;
+}
+
+footer a {
+  color: orange;
+}
+
+footer a:hover {
+  color: orangered;
+}
+
+#title-container {
+  text-align: center;
+  font-size: 30px;
+}
+
+#title-container p {
+  margin-top: -45px;
+}
+
+#title {
+  display: inline-block;
+}
+
+#image-div {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  border-radius: 15px;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 18px;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+.info-intro {
+  width: 50%;
+  display: inline-block;
+  text-align: justify;
+}
+
+.dime-quote::before {
+  content: open-quote;
+  font-size: 45px;
+  color: orange;
+}
+
+.dime-quote::after {
+  content: close-quote;
+  font-size: 45px;
+  color: orange;
+}
+
+.tribute-link {
+  text-align: center;
+}
+
+.more-img {
+  text-align: center;
+}
+
+.pantera-img {
+  display: inline-block;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+
+.dimebag-website-img {
+  width: 100%;
+  display: block;
+  margin-top: 50px;
+}
+
+.footer-container {
+  text-align: center;
+}
